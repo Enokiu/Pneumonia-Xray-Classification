@@ -1,0 +1,10 @@
+torch
+torchvision
+matplotlib
+seaborn
+Pillow
+numpy
+scikit-learn
+tqdm
+kagglehub
+notebook
