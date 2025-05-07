@@ -52,3 +52,8 @@ git clone https://github.com/dein-username/Pneumonia-Xray-Classification.git
 cd Pneumonia-Xray-Classification
 jupyter notebook Pneumonia_Xray_Classification.ipynb
 ```
+
+## 📝 Lizenz
+
+Dieses Projekt steht unter der [MIT-Lizenz](LICENSE).
+
