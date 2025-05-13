@@ -15,11 +15,11 @@ Die gesamte Pipeline umfasst:
 
 Alle Schritte sind ausführlich dokumentiert, visuell aufbereitet und mit Erklärungen versehen, einschließlich der Überlegungen hinter jedem Schritt.
 
-&#8594; **Notebook öffnen:** [`Pneumonia_Xray_Classification.ipynb`](./Pneumonia_Xray_Classification.ipynb)
+&#8594; **Notebook öffnen:** [`Pneumonia_Xray_Classification.ipynb`](./pneumonia_classifier.ipynb)
 
 ## 🛠 Voraussetzungen
 
-- Python 3.8.20 (in dieser Umgebung entwickelt=
+- Python 3.8.20 
 - PyTorch  
 - torchvision  
 - matplotlib  
@@ -43,14 +43,14 @@ Bitte stelle sicher, dass du die zu deinem System (z. B. CUDA-Version) passende 
 
 ## 📁 Daten
 
-Die Daten stammen aus dem [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) Datensatz auf Kaggle. Bitte lade sie dort herunter und speichere sie im entsprechenden Verzeichnis (z. B. `../chest_xray/`).
+Die Daten stammen aus dem [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) Datensatz auf Kaggle. Bitte lade sie dort herunter und speichere sie im entsprechenden Verzeichnis (z. B. `chest_xray/`).
 
 ## 🚀 Projekt starten
 
 ```bash
 git clone https://github.com/dein-username/Pneumonia-Xray-Classification.git
 cd Pneumonia-Xray-Classification
-jupyter notebook Pneumonia_Xray_Classification.ipynb
+jupyter notebook pneumonia_classifier.ipynb
 ```
 
 ## 📝 Lizenz
